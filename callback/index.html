@@ -6,7 +6,13 @@
     <title>utsmannn</title>
   </head>
   <body>
+    <script>
+      var current = window.location.href;
+      function getURL() {
+        window.open(window.location.href, "_self");
+      }
+    </script>
     <p>Reserved</p>
-    <p>If you are not redirected in five seconds, <a href="notatod://open">click here</a>.</p>
+    <p>If you are not redirected in five seconds <a href="" onclick="getURL();">click here</a>.</p>
   </body>
 </html>

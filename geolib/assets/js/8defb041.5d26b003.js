@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[22],{94:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Welcome","permalink":"/geolib/blog/welcome"},{"title":"Hello","permalink":"/geolib/blog/hello-world"},{"title":"Hola","permalink":"/geolib/blog/hola"}]}')}}]);

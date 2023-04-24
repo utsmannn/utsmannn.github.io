@@ -3,5 +3,5 @@
 	url = git@github.com:utsmannn/blog.git
 [submodule "osm-android-compose"]
 	path = osm-android-compose
-	url = git@github.com:utsmannn/osm-android-compose.git
+	url = https://github.com/utsmannn/osm-android-compose.git
 	branch = gh-pages

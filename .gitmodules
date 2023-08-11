@@ -5,3 +5,7 @@
 	path = osm-android-compose
 	url = https://github.com/utsmannn/osm-android-compose.git
 	branch = gh-pages
+[submodule "football-store-api"]
+	path = football-store-api
+	url = https://github.com/utsmannn/footballstore.git
+	branch = gh-pages

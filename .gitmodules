@@ -7,5 +7,5 @@
 	branch = gh-pages
 [submodule "football-store-api"]
 	path = football-store-api
-	url = https://github.com/utsmannn/footballstore.git
+	url = git@github.com:utsmannn/footballstore.git
 	branch = gh-pages

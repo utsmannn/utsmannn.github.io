@@ -13,3 +13,7 @@
 	path = ppob-fake-api
 	url = git@github.com:utsmannn/ppob-fake-api.git
 	branch = gh-pages
+[submodule "kelas"]
+	path = kelas
+	url = git@github.com:utsmannn/kelas-homepage.git
+	branch = gh-pages

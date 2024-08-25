@@ -9,3 +9,7 @@
 	path = football-store-api
 	url = git@github.com:utsmannn/footballstore.git
 	branch = gh-pages
+[submodule "ppob-fake-api"]
+	path = ppob-fake-api
+	url = git@github.com:utsmannn/ppob-fake-api.git
+	branch = gh-pages

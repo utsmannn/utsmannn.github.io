@@ -4,9 +4,6 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Redirecting...</title>
-    <meta property="og:title" id="ogTitle" content="Join WhatsApp Group">
-    <meta property="og:description" id="ogDescription" content="Klik untuk gabung grup WhatsApp">
-    <meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg">
 </head>
 <body>
     <script>
@@ -18,10 +15,6 @@
         function redirectToWhatsApp() {
             var code = getQueryParam('code');
             var group = getQueryParam('group') || 'WhatsApp Group';
-            
-            // Update og:title for thumbnail
-            document.getElementById('ogTitle').setAttribute('content', 'Join ' + group);
-            document.getElementById('ogDescription').setAttribute('content', 'Klik untuk gabung ' + group);
             
             if (code) {
                 window.location.href = 'https://chat.whatsapp.com/' + code;

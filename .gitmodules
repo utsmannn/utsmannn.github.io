@@ -17,3 +17,7 @@
 	path = kelas
 	url = git@github.com:utsmannn/kelas-homepage.git
 	branch = gh-pages
+[submodule "compose-remote-layout"]
+	path = compose-remote-layout
+	url = git@github.com:utsmannn/compose-remote-layout.git
+	branch = gh-pages
